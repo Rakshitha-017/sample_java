@@ -4,7 +4,7 @@ public class Test {
 
     int a=578;
     int b=500;
-    int result = a*b;
+    int result = a-b;
     System.out.println("The diff is " +result);
     
   }
